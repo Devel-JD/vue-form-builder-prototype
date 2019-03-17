@@ -1,4 +1,4 @@
-# form-report-builder
+# vue-form-builder-prototype
 
 > Form builder and report builder with Vue.js
 
